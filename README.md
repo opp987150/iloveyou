@@ -1,5 +1,3 @@
-# iloveyou
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -32,13 +30,13 @@
 </head>
 <body>
 
-    <h1>Câu hỏi Có/Không</h1>
+    <h1>Câu hỏi đáp nhanh</h1>
     
     <div class="question">
-        <p>Vui lòng trả lời câu hỏi dưới đây:</p>
-        <p>Ngay bây giờ, một người nào đó đang chờ cậu trước cổng trên tay là một bông hoa, cậu có dám gặp hông?</p>
-        <button onclick="recordResponse('Có')">Có</button>
-        <button onclick="recordResponse('Không')">Không</button>
+        <p>Vui lòng trả lời câu hỏi dưới đây: 10s</p>
+        <p>Ngay bây giờ, một người nào đó đang chờ cậu trước cổng trên tay là một bông hoa, cậu có gặp cậu ta hông?</p>
+       <a href="https://link-to-yes-option.com">Có</a>
+        <a href="https://link-to-no-option.com">Không</a>
     </div>
 
     <div id="response"></div>

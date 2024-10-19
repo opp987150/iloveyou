@@ -35,7 +35,7 @@
     <div class="question">
         <p>Vui lòng trả lời câu hỏi dưới đây: 10s</p>
         <p>Ngay bây giờ, một người nào đó đang chờ cậu trước cổng trên tay là một bông hoa, cậu có gặp cậu ta hông?</p>
-       <a href="https://link-to-yes-option.com">Có</a>
+       <a href="[https://www.facebook.com/phat.vonguyen.75]">Có</a>
         <a href="https://link-to-no-option.com">Không</a>
     </div>
 
